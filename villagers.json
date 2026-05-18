@@ -9,6 +9,7 @@
         "workstation": "Composter",
         "main_trade": "Golden Carrot",
         "spawned": true,
+        "trade_cost_emeralds": 3,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/plains_farmer.png"
     },
     {
@@ -21,6 +22,7 @@
         "workstation": "Lectern",
         "main_trade": "Mending Book",
         "spawned": false,
+        "trade_cost_emeralds": 32,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/desert_librarian.png"
     },
     {
@@ -33,6 +35,7 @@
         "workstation": "Grindstone",
         "main_trade": "Enchanted Diamond Sword",
         "spawned": true,
+        "trade_cost_emeralds": 24,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/savanna_weaponsmith.png"
     },
     {
@@ -45,6 +48,7 @@
         "workstation": "Blast Furnace",
         "main_trade": "Iron Chestplate",
         "spawned": true,
+        "trade_cost_emeralds": 9,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/taiga_armorer.png"
     },
     {
@@ -57,6 +61,7 @@
         "workstation": "Smithing Table",
         "spawned": true,
         "main_trade": "Diamond Pickaxe",
+        "trade_cost_emeralds": 18,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/snowy_toolsmith.png"
     },
     {
@@ -69,6 +74,7 @@
         "workstation": "Brewing Stand",
         "spawned": false,
         "main_trade": "Bottle o' Enchanting",
+        "trade_cost_emeralds": 5,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/swamp_cleric.png"
     },
     {
@@ -81,6 +87,7 @@
         "spawned": true,
         "workstation": "Cartography Table",
         "main_trade": "Woodland Explorer Map",
+        "trade_cost_emeralds": 14,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/jungle_cartographer.png"
     },
     {
@@ -93,6 +100,7 @@
         "spawned": true,
         "workstation": "Barrel",
         "main_trade": "Cooked Cod",
+        "trade_cost_emeralds": 1,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/plains_fisherman.png"
     },
     {
@@ -105,6 +113,7 @@
         "level": 2,
         "workstation": "Fletching Table",
         "main_trade": "Tipped Arrow",
+        "trade_cost_emeralds": 4,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/desert_fletcher.png"
     },
     {
@@ -117,6 +126,7 @@
         "workstation": "Loom",
         "main_trade": "Lime Bed",
         "spawned": true,
+        "trade_cost_emeralds": 3,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/savanna_shepherd.png"
     },
     {
@@ -129,6 +139,7 @@
         "workstation": "Stonecutter",
         "main_trade": "Quartz Pillar",
         "spawned": true,
+        "trade_cost_emeralds": 7,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/taiga_mason.png"
     },
     {
@@ -141,6 +152,7 @@
         "workstation": "Smoker",
         "main_trade": "Cooked Porkchop",
         "spawned": true,
+        "trade_cost_emeralds": 1,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/plains_butcher.png"
     },
     {
@@ -153,6 +165,7 @@
         "workstation": "Cauldron",
         "main_trade": "Saddle",
         "spawned": true,
+        "trade_cost_emeralds": 6,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/snowy_leatherworker.png"
     },
     {
@@ -165,6 +178,7 @@
         "workstation": "None",
         "main_trade": "Nothing",
         "spawned": true,
+        "trade_cost_emeralds": 0,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/desert_nitwit.png"
     },
     {
@@ -177,6 +191,7 @@
         "workstation": "Composter",
         "main_trade": "Pumpkin Pie",
         "spawned": true,
+        "trade_cost_emeralds": 1,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/swamp_farmer.png"
     },
     {
@@ -189,6 +204,7 @@
         "workstation": "Fletching Table",
         "main_trade": "Spectral Arrow",
         "spawned": true,
+        "trade_cost_emeralds": 4,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/jungle_fletcher.png"
     },
     {
@@ -201,6 +217,7 @@
         "workstation": "Cartography Table",
         "main_trade": "Ocean Explorer Map",
         "spawned": true,
+        "trade_cost_emeralds": 12,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/savanna_cartographer.png"
     },
     {
@@ -213,6 +230,7 @@
         "workstation": "Blast Furnace",
         "main_trade": "Diamond Boots",
         "spawned": true,
+        "trade_cost_emeralds": 20,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/plains_armorer.png"
     },
     {
@@ -225,6 +243,7 @@
         "workstation": "Smithing Table",
         "main_trade": "Enchanted Diamond Hoe",
         "spawned": true,
+        "trade_cost_emeralds": 15,
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/desert_toolsmith.png"
     }
 ]
