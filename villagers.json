@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Barnaby",
+        "description": "A dedicated farmer who spends his time harvesting wheat and filling the local composters.",
+        "biome_id": 1,
+        "profession": "Farmer",
+        "level": "Master",
+        "workstation": "Composter",
+        "main_trade": "Golden Carrot",
+        "likes": 42,
+        "image": "/img/plains_farmer.png"
+    },
+    {
+        "id": 2,
+        "name": "Eustace",
+        "description": "A quiet librarian surrounded by shelves of ancient enchanted books in the desert sands.",
+        "biome_id": 2,
+        "profession": "Librarian",
+        "level": "Master",
+        "workstation": "Lectern",
+        "main_trade": "Mending Book",
+        "likes": 128,
+        "image": "/img/desert_librarian.png"
+    },
+    {
+        "id": 3,
+        "name": "Gideon",
+        "description": "The village weaponsmith, known for forging iron swords and axes that never dull.",
+        "biome_id": 3,
+        "profession": "Weaponsmith",
+        "level": "Expert",
+        "workstation": "Grindstone",
+        "main_trade": "Enchanted Diamond Sword",
+        "likes": 56,
+        "image": "/img/savanna_weaponsmith.png"
+    },
+    {
+        "id": 4,
+        "name": "Hilda",
+        "description": "A sturdy armorer who crafts heavy plate mail to protect the village from nightly raids.",
+        "biome_id": 4,
+        "profession": "Armorer",
+        "level": "Apprentice",
+        "workstation": "Blast Furnace",
+        "main_trade": "Iron Chestplate",
+        "likes": 24,
+        "image": "/img/taiga_armorer.png"
+    },
+    {
+        "id": 5,
+        "name": "Ivan",
+        "description": "An expert toolsmith who can craft a pickaxe strong enough to break obsidian.",
+        "biome_id": 5,
+        "profession": "Toolsmith",
+        "level": "Journeyman",
+        "workstation": "Smithing Table",
+        "main_trade": "Diamond Pickaxe",
+        "likes": 89,
+        "image": "/img/snow_toolsmith.png"
+    },
+    {
+        "id": 6,
+        "name": "Squelch",
+        "description": "A mysterious cleric found only in the deepest swamps, brewing strange potions.",
+        "biome_id": 7,
+        "profession": "Cleric",
+        "level": "Master",
+        "workstation": "Brewing Stand",
+        "main_trade": "Bottle o' Enchanting",
+        "likes": 312,
+        "image": "/img/swamp_cleric.png"
+    },
+    {
+        "id": 7,
+        "name": "Leafy",
+        "description": "A rare jungle cartographer who possesses maps leading to hidden woodland mansions.",
+        "biome_id": 6,
+        "profession": "Cartographer",
+        "level": "Expert",
+        "workstation": "Cartography Table",
+        "main_trade": "Woodland Explorer Map",
+        "likes": 215,
+        "image": "/img/jungle_cartographer.png"
+    },
+    {
+        "id": 8,
+        "name": "Finn",
+        "description": "A local fisherman from the plains who always has a fresh catch and some coal to trade.",
+        "biome_id": 1,
+        "profession": "Fisherman",
+        "level": "Novice",
+        "workstation": "Barrel",
+        "main_trade": "Cooked Cod",
+        "likes": 15,
+        "image": "/img/plains_fisherman.png"
+    },
+    {
+        "id": 9,
+        "name": "Sandy",
+        "description": "A desert fletcher who crafts arrows from flint and feathers found near the oasis.",
+        "biome_id": 2,
+        "profession": "Fletcher",
+        "level": "Apprentice",
+        "workstation": "Fletching Table",
+        "main_trade": "Tipped Arrow",
+        "likes": 33,
+        "image": "/img/desert_fletcher.png"
+    },
+    {
+        "id": 10,
+        "name": "Baa-rbara",
+        "description": "The savanna shepherd who shears the local sheep and dyes the wool in vibrant colors.",
+        "biome_id": 3,
+        "profession": "Shepherd",
+        "level": "Journeyman",
+        "workstation": "Loom",
+        "main_trade": "Lime Bed",
+        "likes": 67,
+        "image": "/img/savanna_shepherd.png"
+    }
+]

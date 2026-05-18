@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Plains",
+        "temperature": "Temperate",
+        "blocks": ["Grass Block", "Oak Log", "Dandelion"],
+        "village_structure": "Oak & Cobblestone",
+        "image": "/img/plains_none.png",
+        "description": "The most common and peaceful biome, featuring vast green fields and oak forests."
+    },
+    {
+        "id": 2,
+        "name": "Desert",
+        "temperature": "Hot",
+        "blocks": ["Sand", "Cactus", "Dead Bush"],
+        "village_structure": "Sandstone & Smooth Sandstone",
+        "image": "/img/desert_none.png",
+        "description": "A harsh, dry landscape where villagers live in sandstone structures and wear light clothing."
+    },
+    {
+        "id": 3,
+        "name": "Savanna",
+        "temperature": "Warm",
+        "blocks": ["Acacia Log", "Tall Grass", "Coarse Dirt"],
+        "village_structure": "Acacia Wood & Terracotta",
+        "image": "/img/savanna_none.png",
+        "description": "A plateau-filled biome with acacia trees and unique reddish-orange clay villages."
+    },
+    {
+        "id": 4,
+        "name": "Taiga",
+        "temperature": "Cold",
+        "blocks": ["Spruce Log", "Sweet Berry Bush", "Fern"],
+        "village_structure": "Spruce Wood & Cobblestone",
+        "image": "/img/taiga_none.png",
+        "description": "A dense forest of spruce trees and berry bushes, where villagers wear heavy furs."
+    },
+    {
+        "id": 5,
+        "name": "Snow",
+        "temperature": "Freezing",
+        "blocks": ["Snow Block", "Ice", "Blue Ice"],
+        "village_structure": "Snow & Spruce Wood",
+        "image": "/img/snow_none.png",
+        "description": "A frozen wasteland where villages are built into the snow and villagers wear thick parkas."
+    },
+    {
+        "id": 6,
+        "name": "Jungle",
+        "temperature": "Warm/Humid",
+        "blocks": ["Jungle Log", "Bamboo", "Cocoa Beans"],
+        "village_structure": "None (Natural)",
+        "image": "/img/jungle_none.png",
+        "description": "Lush tropical forests where villagers wear leaf-patterned outfits; they only appear if bred here."
+    },
+    {
+        "id": 7,
+        "name": "Swamp",
+        "temperature": "Temperate/Humid",
+        "blocks": ["Lily Pad", "Vines", "Mud"],
+        "village_structure": "None (Natural)",
+        "image": "/img/swamp_none.png",
+        "description": "Murky waters filled with lily pads and vines; swamp villagers are recognizable by their purple robes."
+    }
+]
