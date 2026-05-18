@@ -4,7 +4,7 @@
         "name": "Plains",
         "temperature": "Temperate",
         "blocks": ["grass_block", "oak_log", "dandelion"],
-        "village_structure": "Oak & Cobblestone",
+        "villageStructure": "Oak & Cobblestone",
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/plains.png",
         "description": "The most common and peaceful biome, featuring vast green fields and oak forests."
     },
@@ -13,7 +13,7 @@
         "name": "Desert",
         "temperature": "Hot",
         "blocks": ["sand", "cactus", "dead_bush"],
-        "village_structure": "Sandstone & Smooth Sandstone",
+        "villageStructure": "Sandstone & Smooth Sandstone",
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/desert.png",
         "description": "A harsh, dry landscape where villagers live in sandstone structures and wear light clothing."
     },
@@ -22,7 +22,7 @@
         "name": "Savanna",
         "temperature": "Warm",
         "blocks": ["acacia_log", "tall_grass", "coarse_dirt"],
-        "village_structure": "Acacia Wood & Terracotta",
+        "villageStructure": "Acacia Wood & Terracotta",
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/savanna.png",
         "description": "A plateau-filled biome with acacia trees and unique reddish-orange clay villages."
     },
@@ -31,7 +31,7 @@
         "name": "Taiga",
         "temperature": "Cold",
         "blocks": ["spruce_log", "sweet_berry_bush", "fern"],
-        "village_structure": "Spruce Wood & Cobblestone",
+        "villageStructure": "Spruce Wood & Cobblestone",
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/taiga.png",
         "description": "A dense forest of spruce trees and berry bushes, where villagers wear heavy furs."
     },
@@ -40,7 +40,7 @@
         "name": "Snow",
         "temperature": "Freezing",
         "blocks": ["snow_block", "ice", "blue_ice"],
-        "village_structure": "Snow & Spruce Wood",
+        "villageStructure": "Snow & Spruce Wood",
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/snowy.png",
         "description": "A frozen wasteland where villages are built into the snow and villagers wear thick parkas."
     },
@@ -49,7 +49,7 @@
         "name": "Jungle",
         "temperature": "Warm/Humid",
         "blocks": ["jungle_log", "bamboo", "cocoa"],
-        "village_structure": "None (Natural)",
+        "villageStructure": "None (Natural)",
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/jungle.png",
         "description": "Lush tropical forests where villagers wear leaf-patterned outfits; they only appear if bred here."
     },
@@ -58,7 +58,7 @@
         "name": "Swamp",
         "temperature": "Temperate/Humid",
         "blocks": ["lily_pad", "vine", "mud"],
-        "village_structure": "None (Natural)",
+        "villageStructure": "None (Natural)",
         "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/swamp.png",
         "description": "Murky waters filled with lily pads and vines; swamp villagers are recognizable by their purple robes."
     }
