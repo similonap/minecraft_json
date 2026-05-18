@@ -8,8 +8,8 @@
         "level": "Master",
         "workstation": "Composter",
         "main_trade": "Golden Carrot",
-        "likes": 42,
-        "image": "/img/plains_farmer.png"
+        "spawned": true,
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/plains_farmer.png"
     },
     {
         "id": 2,
@@ -20,8 +20,8 @@
         "level": "Master",
         "workstation": "Lectern",
         "main_trade": "Mending Book",
-        "likes": 128,
-        "image": "/img/desert_librarian.png"
+        "spawned": false,
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/desert_librarian.png"
     },
     {
         "id": 3,
@@ -32,8 +32,8 @@
         "level": "Expert",
         "workstation": "Grindstone",
         "main_trade": "Enchanted Diamond Sword",
-        "likes": 56,
-        "image": "/img/savanna_weaponsmith.png"
+        "spawned": true,
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/savanna_weaponsmith.png"
     },
     {
         "id": 4,
@@ -44,8 +44,8 @@
         "level": "Apprentice",
         "workstation": "Blast Furnace",
         "main_trade": "Iron Chestplate",
-        "likes": 24,
-        "image": "/img/taiga_armorer.png"
+        "spawned": true,
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/taiga_armorer.png"
     },
     {
         "id": 5,
@@ -55,9 +55,9 @@
         "profession": "Toolsmith",
         "level": "Journeyman",
         "workstation": "Smithing Table",
+        "spawned": true,
         "main_trade": "Diamond Pickaxe",
-        "likes": 89,
-        "image": "/img/snow_toolsmith.png"
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/snowy_toolsmith.png"
     },
     {
         "id": 6,
@@ -67,9 +67,9 @@
         "profession": "Cleric",
         "level": "Master",
         "workstation": "Brewing Stand",
+        "spawned": false,
         "main_trade": "Bottle o' Enchanting",
-        "likes": 312,
-        "image": "/img/swamp_cleric.png"
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/swamp_cleric.png"
     },
     {
         "id": 7,
@@ -78,10 +78,10 @@
         "biome_id": 6,
         "profession": "Cartographer",
         "level": "Expert",
+        "spawned": true,
         "workstation": "Cartography Table",
         "main_trade": "Woodland Explorer Map",
-        "likes": 215,
-        "image": "/img/jungle_cartographer.png"
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/jungle_cartographer.png"
     },
     {
         "id": 8,
@@ -90,10 +90,10 @@
         "biome_id": 1,
         "profession": "Fisherman",
         "level": "Novice",
+        "spawned": true,
         "workstation": "Barrel",
         "main_trade": "Cooked Cod",
-        "likes": 15,
-        "image": "/img/plains_fisherman.png"
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/plains_fisherman.png"
     },
     {
         "id": 9,
@@ -101,11 +101,11 @@
         "description": "A desert fletcher who crafts arrows from flint and feathers found near the oasis.",
         "biome_id": 2,
         "profession": "Fletcher",
+        "spawned": true,
         "level": "Apprentice",
         "workstation": "Fletching Table",
         "main_trade": "Tipped Arrow",
-        "likes": 33,
-        "image": "/img/desert_fletcher.png"
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/desert_fletcher.png"
     },
     {
         "id": 10,
@@ -116,7 +116,115 @@
         "level": "Journeyman",
         "workstation": "Loom",
         "main_trade": "Lime Bed",
-        "likes": 67,
-        "image": "/img/savanna_shepherd.png"
+        "spawned": true,
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/savanna_shepherd.png"
+    },
+    {
+        "id": 11,
+        "name": "Magnus",
+        "description": "A master mason from the taiga who specializes in carving beautiful quartz pillars for grand halls.",
+        "biome_id": 4,
+        "profession": "Mason",
+        "level": "Expert",
+        "workstation": "Stonecutter",
+        "main_trade": "Quartz Pillar",
+        "spawned": true,
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/taiga_mason.png"
+    },
+    {
+        "id": 12,
+        "name": "Burt",
+        "description": "A simple plains butcher who always has the best smoked porkchops in the village.",
+        "biome_id": 1,
+        "profession": "Butcher",
+        "level": "Novice",
+        "workstation": "Smoker",
+        "main_trade": "Cooked Porkchop",
+        "spawned": true,
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/plains_butcher.png"
+    },
+    {
+        "id": 13,
+        "name": "Lulu",
+        "description": "A skilled leatherworker in the snowy wastes, known for crafting high-quality saddles for mountain explorers.",
+        "biome_id": 5,
+        "profession": "Leatherworker",
+        "level": "Journeyman",
+        "workstation": "Cauldron",
+        "main_trade": "Saddle",
+        "spawned": true,
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/snowy_leatherworker.png"
+    },
+    {
+        "id": 14,
+        "name": "Nigel",
+        "description": "A desert nitwit who spends most of his day wandering aimlessly and talking to cacti.",
+        "biome_id": 2,
+        "profession": "Nitwit",
+        "level": "Novice",
+        "workstation": "None",
+        "main_trade": "Nothing",
+        "spawned": true,
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/desert_nitwit.png"
+    },
+    {
+        "id": 15,
+        "name": "Greta",
+        "description": "A swamp farmer who has perfected the art of baking pumpkin pies despite the damp conditions.",
+        "biome_id": 7,
+        "profession": "Farmer",
+        "level": "Apprentice",
+        "workstation": "Composter",
+        "main_trade": "Pumpkin Pie",
+        "spawned": true,
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/swamp_farmer.png"
+    },
+    {
+        "id": 16,
+        "name": "Silas",
+        "description": "A legendary fletcher from the jungle, famous for his glowing spectral arrows.",
+        "biome_id": 6,
+        "profession": "Fletcher",
+        "level": "Master",
+        "workstation": "Fletching Table",
+        "main_trade": "Spectral Arrow",
+        "spawned": true,
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/jungle_fletcher.png"
+    },
+    {
+        "id": 17,
+        "name": "Dora",
+        "description": "An adventurous savanna cartographer who maps out the vast oceans beyond the plains.",
+        "biome_id": 3,
+        "profession": "Cartographer",
+        "level": "Journeyman",
+        "workstation": "Cartography Table",
+        "main_trade": "Ocean Explorer Map",
+        "spawned": true,
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/savanna_cartographer.png"
+    },
+    {
+        "id": 18,
+        "name": "Pip",
+        "description": "An expert plains armorer who provides high-end diamond boots to the village defenders.",
+        "biome_id": 1,
+        "profession": "Armorer",
+        "level": "Expert",
+        "workstation": "Blast Furnace",
+        "main_trade": "Diamond Boots",
+        "spawned": true,
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/plains_armorer.png"
+    },
+    {
+        "id": 20,
+        "name": "Toby",
+        "description": "A master toolsmith from the desert whose enchanted diamond hoes are sought after by every farmer.",
+        "biome_id": 2,
+        "profession": "Toolsmith",
+        "level": "Master",
+        "workstation": "Smithing Table",
+        "main_trade": "Enchanted Diamond Hoe",
+        "spawned": true,
+        "image": "https://raw.githubusercontent.com/similonap/minecraft_json/refs/heads/main/img/desert_toolsmith.png"
     }
 ]
